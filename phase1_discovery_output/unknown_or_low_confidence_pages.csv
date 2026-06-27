@@ -1,0 +1,2 @@
+page_number,detected_family,confidence,evidence_text,detected_section_code,detected_header_labels,expected_data_rows,observed_data_like_rows,page_width,page_height,rotation,expected_family,expected_range_disagreement,is_low_confidence,notes
+1,non_data_or_unknown,0.40,LAMPIRAN A | LEMBAGA HASIL DALAM NEGERI MALAYSIA | JADUAL POTONGAN CUKAI BULANAN | TABLE OF MONTHLY TAX DEDUCTIONS | Jadual PCB yang dikeluarkan adalah bagi memudahkan majikan yang tidak menggunakan perisian,,,0,0,792.0,612.0,0,non_data_or_unknown,False,True,zero_data_like_rows

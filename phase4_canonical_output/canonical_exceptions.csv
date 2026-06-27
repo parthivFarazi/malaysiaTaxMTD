@@ -1,0 +1,21 @@
+exception_id,severity,validation_layer,rule_name,record_id,source_page,source_row_index,source_column_label,category_group,dependent_code,raw_value,details
+EXC-0000001,warning,business,suspicious_deduction_decrease,CL-000396648,374,28,cat2_KA11,category_2,KA11,201.05,Deduction decreased by 182.30 from previous populated value
+EXC-0000002,warning,business,suspicious_deduction_decrease,CL-000397309,375,17,cat2_KA12,category_2,KA12,200.70,Deduction decreased by 182.40 from previous populated value
+EXC-0000003,warning,business,suspicious_deduction_decrease,CL-000397970,376,6,cat2_KA13,category_2,KA13,200.35,Deduction decreased by 182.50 from previous populated value
+EXC-0000004,warning,business,suspicious_deduction_decrease,CL-000398651,376,40,cat2_KA14,category_2,KA14,201.05,Deduction decreased by 182.30 from previous populated value
+EXC-0000005,warning,business,suspicious_deduction_decrease,CL-000399312,377,29,cat2_KA15,category_2,KA15,200.70,Deduction decreased by 182.40 from previous populated value
+EXC-0000006,warning,business,suspicious_deduction_decrease,CL-000399973,378,18,cat2_KA16,category_2,KA16,200.35,Deduction decreased by 182.50 from previous populated value
+EXC-0000007,warning,business,suspicious_deduction_decrease,CL-000400654,379,8,cat2_KA17,category_2,KA17,201.05,Deduction decreased by 182.30 from previous populated value
+EXC-0000008,warning,business,suspicious_deduction_decrease,CL-000401315,379,41,cat2_KA18,category_2,KA18,200.70,Deduction decreased by 182.40 from previous populated value
+EXC-0000009,warning,business,suspicious_deduction_decrease,CL-000401976,380,30,cat2_KA19,category_2,KA19,200.35,Deduction decreased by 182.50 from previous populated value
+EXC-0000010,warning,business,suspicious_deduction_decrease,CL-000402657,381,20,cat2_KA20,category_2,KA20,201.05,Deduction decreased by 182.30 from previous populated value
+EXC-0000011,warning,business,suspicious_deduction_decrease,CL-000395318,373,5,cat3_KA11,category_3,KA11,200.70,Deduction decreased by 182.40 from previous populated value
+EXC-0000012,warning,business,suspicious_deduction_decrease,CL-000395979,373,38,cat3_KA12,category_3,KA12,200.35,Deduction decreased by 182.50 from previous populated value
+EXC-0000013,warning,business,suspicious_deduction_decrease,CL-000396660,374,28,cat3_KA13,category_3,KA13,201.05,Deduction decreased by 182.30 from previous populated value
+EXC-0000014,warning,business,suspicious_deduction_decrease,CL-000397321,375,17,cat3_KA14,category_3,KA14,200.70,Deduction decreased by 182.40 from previous populated value
+EXC-0000015,warning,business,suspicious_deduction_decrease,CL-000397982,376,6,cat3_KA15,category_3,KA15,200.35,Deduction decreased by 182.50 from previous populated value
+EXC-0000016,warning,business,suspicious_deduction_decrease,CL-000398663,376,40,cat3_KA16,category_3,KA16,201.05,Deduction decreased by 182.30 from previous populated value
+EXC-0000017,warning,business,suspicious_deduction_decrease,CL-000399324,377,29,cat3_KA17,category_3,KA17,200.70,Deduction decreased by 182.40 from previous populated value
+EXC-0000018,warning,business,suspicious_deduction_decrease,CL-000399985,378,18,cat3_KA18,category_3,KA18,200.35,Deduction decreased by 182.50 from previous populated value
+EXC-0000019,warning,business,suspicious_deduction_decrease,CL-000400666,379,8,cat3_KA19,category_3,KA19,201.05,Deduction decreased by 182.30 from previous populated value
+EXC-0000020,warning,business,suspicious_deduction_decrease,CL-000401327,379,41,cat3_KA20,category_3,KA20,200.70,Deduction decreased by 182.40 from previous populated value

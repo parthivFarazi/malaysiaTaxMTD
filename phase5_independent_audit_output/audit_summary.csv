@@ -1,0 +1,50 @@
+metric,scope,canonical_count,independent_count,status,details
+record_count,full_dataset,712667,712667,pass,Total deduction records
+parsed_row_count,full_dataset,33145,33145,pass,Unique PDF table rows
+salary_range_count,full_dataset,33145,33145,pass,Distinct salary ranges by section
+section_record_count,KA1_KA10,381547,381547,pass,Records by section
+section_record_count,KA11_KA20,331120,331120,pass,Records by section
+dependent_column_count,KA11_KA20:cat2_KA11,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat2_KA12,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat2_KA13,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat2_KA14,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat2_KA15,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat2_KA16,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat2_KA17,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat2_KA18,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat2_KA19,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat2_KA20,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat3_KA11,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat3_KA12,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat3_KA13,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat3_KA14,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat3_KA15,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat3_KA16,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat3_KA17,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat3_KA18,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat3_KA19,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA11_KA20:cat3_KA20,16556,16556,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:B,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat2_K,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat2_KA1,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat2_KA10,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat2_KA2,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat2_KA3,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat2_KA4,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat2_KA5,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat2_KA6,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat2_KA7,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat2_KA8,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat2_KA9,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat3_K,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat3_KA1,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat3_KA10,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat3_KA2,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat3_KA3,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat3_KA4,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat3_KA5,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat3_KA6,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat3_KA7,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat3_KA8,16589,16589,pass,Records by section and dependent column
+dependent_column_count,KA1_KA10:cat3_KA9,16589,16589,pass,Records by section and dependent column
+sample_record_exact_matches,random_sample,97810,97810,pass,Exact matches across 100 sampled pages

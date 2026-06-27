@@ -1,0 +1,252 @@
+{
+  "extraction_errors": {},
+  "extraction_timestamp_local": "2026-06-27T15:38:27.101001+08:00",
+  "extraction_timestamp_utc": "2026-06-27T07:38:27.100851+00:00",
+  "file_size_bytes": 32619469,
+  "filename": "Jadual_PCB_2018 (1).pdf",
+  "page_count": 733,
+  "pdf_metadata": {
+    "Author": "User",
+    "CreationDate": "D:20171106194130+08'00'",
+    "Creator": "Microsoft\u00ae Excel\u00ae 2010",
+    "ModDate": "D:20171107105932+08'00'",
+    "Producer": "Microsoft\u00ae Excel\u00ae 2010",
+    "Title": ""
+  },
+  "sample_page_count": 35,
+  "sample_pages": [
+    {
+      "page_number": 2,
+      "reasons": [
+        "first_data_pages_2_10"
+      ]
+    },
+    {
+      "page_number": 3,
+      "reasons": [
+        "first_data_pages_2_10"
+      ]
+    },
+    {
+      "page_number": 4,
+      "reasons": [
+        "first_data_pages_2_10"
+      ]
+    },
+    {
+      "page_number": 5,
+      "reasons": [
+        "first_data_pages_2_10"
+      ]
+    },
+    {
+      "page_number": 6,
+      "reasons": [
+        "first_data_pages_2_10"
+      ]
+    },
+    {
+      "page_number": 7,
+      "reasons": [
+        "first_data_pages_2_10"
+      ]
+    },
+    {
+      "page_number": 8,
+      "reasons": [
+        "first_data_pages_2_10"
+      ]
+    },
+    {
+      "page_number": 9,
+      "reasons": [
+        "first_data_pages_2_10"
+      ]
+    },
+    {
+      "page_number": 10,
+      "reasons": [
+        "first_data_pages_2_10"
+      ]
+    },
+    {
+      "page_number": 354,
+      "reasons": [
+        "manual_extra_pages"
+      ]
+    },
+    {
+      "page_number": 355,
+      "reasons": [
+        "manual_extra_pages"
+      ]
+    },
+    {
+      "page_number": 356,
+      "reasons": [
+        "manual_extra_pages"
+      ]
+    },
+    {
+      "page_number": 357,
+      "reasons": [
+        "manual_extra_pages"
+      ]
+    },
+    {
+      "page_number": 358,
+      "reasons": [
+        "manual_extra_pages"
+      ]
+    },
+    {
+      "page_number": 359,
+      "reasons": [
+        "manual_extra_pages"
+      ]
+    },
+    {
+      "page_number": 360,
+      "reasons": [
+        "manual_extra_pages"
+      ]
+    },
+    {
+      "page_number": 361,
+      "reasons": [
+        "manual_extra_pages"
+      ]
+    },
+    {
+      "page_number": 362,
+      "reasons": [
+        "manual_extra_pages",
+        "middle_pages"
+      ]
+    },
+    {
+      "page_number": 363,
+      "reasons": [
+        "manual_extra_pages",
+        "middle_pages"
+      ]
+    },
+    {
+      "page_number": 364,
+      "reasons": [
+        "middle_pages"
+      ]
+    },
+    {
+      "page_number": 365,
+      "reasons": [
+        "middle_pages"
+      ]
+    },
+    {
+      "page_number": 366,
+      "reasons": [
+        "middle_pages"
+      ]
+    },
+    {
+      "page_number": 367,
+      "reasons": [
+        "middle_pages"
+      ]
+    },
+    {
+      "page_number": 368,
+      "reasons": [
+        "middle_pages"
+      ]
+    },
+    {
+      "page_number": 369,
+      "reasons": [
+        "middle_pages"
+      ]
+    },
+    {
+      "page_number": 370,
+      "reasons": [
+        "middle_pages"
+      ]
+    },
+    {
+      "page_number": 725,
+      "reasons": [
+        "final_data_pages"
+      ]
+    },
+    {
+      "page_number": 726,
+      "reasons": [
+        "final_data_pages"
+      ]
+    },
+    {
+      "page_number": 727,
+      "reasons": [
+        "final_data_pages"
+      ]
+    },
+    {
+      "page_number": 728,
+      "reasons": [
+        "final_data_pages"
+      ]
+    },
+    {
+      "page_number": 729,
+      "reasons": [
+        "final_data_pages"
+      ]
+    },
+    {
+      "page_number": 730,
+      "reasons": [
+        "final_data_pages"
+      ]
+    },
+    {
+      "page_number": 731,
+      "reasons": [
+        "final_data_pages"
+      ]
+    },
+    {
+      "page_number": 732,
+      "reasons": [
+        "final_data_pages"
+      ]
+    },
+    {
+      "page_number": 733,
+      "reasons": [
+        "final_data_pages"
+      ]
+    }
+  ],
+  "sample_summary": {
+    "page_box_signatures": {
+      "792.00x612.00/rot=0": 733
+    },
+    "sampled_pages": 35,
+    "sampled_token_count": 38303,
+    "sampled_token_count_max": 1314,
+    "sampled_token_count_median": 1094.0,
+    "sampled_token_count_min": 84
+  },
+  "sampled_token_count": 38303,
+  "script_version": "phase1-discovery-0.1.0",
+  "sha256": "13dfe628189dd8ea0e9eb36748534775558312b4d2f8e287ba0949d53a28d7ab",
+  "source_pdf_path": "/Users/parthiv_farazi/Documents/cblTaxWork/Jadual_PCB_2018 (1).pdf",
+  "tool_versions": {
+    "pdfminer.six": "20250506",
+    "pdfplumber": "0.11.7",
+    "platform": "macOS-26.5-arm64-arm-64bit",
+    "pypdfium2": "5.10.1",
+    "python": "3.12.6 (v3.12.6:a4a2d2b0d85, Sep  6 2024, 16:08:03) [Clang 13.0.0 (clang-1300.0.29.30)]"
+  }
+}

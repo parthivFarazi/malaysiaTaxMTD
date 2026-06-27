@@ -1,0 +1,17 @@
+validation_name,validation_layer,severity,status,checked_records,issue_count,details
+total_canonical_records,summary,,info,712667,,Total records in Canonical_Long
+validation_status_valid,summary,,info,712667,712647,Records with validation_status=valid
+validation_status_warning,summary,warning,warning,712667,20,Records with validation_status=warning
+validation_status_failed,summary,critical,pass,712667,0,Records with validation_status=failed
+blank_status_observed_dash,summary,,info,712667,10272,Records with blank_status=observed_dash
+blank_status_populated,summary,,info,712667,702395,Records with blank_status=populated
+salary_from_gt_salary_to,structural,critical,pass,712667,0,salary_from_gt_salary_to issues found
+unexpected_dependent_code_for_section,structural,critical,pass,712667,0,unexpected_dependent_code_for_section issues found
+invalid_category_mapping,structural,critical,pass,712667,0,invalid_category_mapping issues found
+duplicate_canonical_record,structural,critical,pass,712667,0,duplicate_canonical_record issues found
+missing_required_metadata,structural,critical,pass,712667,0,missing_required_metadata issues found
+negative_deduction_value,business,warning,pass,712667,0,negative_deduction_value issues found
+malformed_numeric_value,business,warning,pass,712667,0,malformed_numeric_value issues found
+unexpected_salary_range_ordering,business,warning,pass,712667,0,unexpected_salary_range_ordering issues found
+suspicious_deduction_decrease,business,warning,warning,712667,20,suspicious_deduction_decrease issues found
+extreme_deduction_jump,business,warning,pass,712667,0,extreme_deduction_jump issues found
